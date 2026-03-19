@@ -1,6 +1,6 @@
 name: image_gallery_saver_plus_max
-description: A flutter plugin for save image to gallery, iOS need to add the following keys to your Info.plist file.
-version: 1.0.0
+description: Flutter升级3.35.7之后，对image_gallery_saver的插件升级。A flutter plugin for save image to gallery, iOS need to add the following keys to your Info.plist file.
+version: 1.0.1
 homepage: https://github.com/HanQiGod/image_gallery_saver_plus_max
 
 environment:
