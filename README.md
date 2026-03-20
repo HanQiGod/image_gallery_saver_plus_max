@@ -1,5 +1,7 @@
 # image_gallery_saver_plus_max v1.0.0
 
+## 技术支持邮箱(1539841933@qq.com)
+
 [![Build Status](https://travis-ci.org/hui-z/image_gallery_saver.svg?branch=master)](https://travis-ci.org/hui-z/image_gallery_saver#)
 [![pub package](https://img.shields.io/pub/v/image_gallery_saver_plus_max.svg)](https://pub.dev/packages/image_gallery_saver_plus_max)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://choosealicense.com/licenses/mit/)
