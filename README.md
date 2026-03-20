@@ -1,4 +1,4 @@
-# image_gallery_saver_plus_max v1.0.0
+# image_gallery_saver_plus_max
 
 ## 技术支持邮箱(1539841933@qq.com)
 
@@ -13,7 +13,7 @@ We use the `image_picker` plugin to select images from the Android and iOS image
 To use this plugin, add `image_gallery_saver_plus_max` as a dependency in your pubspec.yaml file. For example:
 ```yaml
 dependencies:
-  image_gallery_saver_plus_max: ^1.0.0
+  image_gallery_saver_plus_max: any
 ```
 
 ## iOS
